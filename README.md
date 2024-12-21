@@ -10,4 +10,4 @@ Api for Arabic version:
  http://api.alquran.cloud/v1/quran/quran-uthmani
 
 Api for English translation:
- http://api.alquran.cloud/v1/quran/quran-uthmani
+ http://api.alquran.cloud/v1/quran/en.asad
