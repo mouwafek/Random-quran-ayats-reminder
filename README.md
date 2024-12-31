@@ -4,8 +4,6 @@ Android mobile app made with Flutter, that reminds you of Quran with random ayat
 
 ## App screens
 
-![Like](https://github.com/user-attachments/assets/f3f8699f-866a-4e34-a0ee-0e94317375b1)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4c8b3f69-fe8b-4ff9-8673-8d2ddceb3d96" width="300" alt="Loader-screen"/>
   <img src="https://github.com/user-attachments/assets/f4723108-407b-4592-a843-ca7ec3aa047b" width="300" alt="Home-screen"/>
