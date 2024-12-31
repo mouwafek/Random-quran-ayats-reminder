@@ -56,7 +56,7 @@ flutter run
 
 ```
 Random-quran-ayats-reminder/
-lib/
+├──lib/
 ├── main.dart
 ├── models/
 │   └── quran_ayah.dart
@@ -72,6 +72,6 @@ lib/
     ├── ayah_card.dart
     ├── action_buttons.dart
     └── navigation_handler.dart
-
-
 ```
+
+Made by HM
